@@ -11,7 +11,6 @@
 
 ---
 
-# 🇸🇦 الوصف السعودي
 
 يا هلا والله 👋  
 إذا تبي تضيف الحماس والتفاعل الحقيقي داخل سيرفرك، فـ **Polat Games Bot** هو الاختيار اللي يرفع مستوى السيرفر بالكامل.
@@ -99,7 +98,7 @@ Discord: `plt`
 
 ---
 
-# 🇺🇸 English Description
+
 
 Bring your Discord community to life with **Polat Games Bot**, an advanced entertainment and interaction system designed for modern Discord communities.
 
