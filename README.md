@@ -94,7 +94,7 @@
 
 يمنع إعادة البيع أو النشر أو التعديل التجاري بدون إذن رسمي.
 
-Discord: `plt`
+Discord: `engkane`
 
 ---
 
@@ -180,4 +180,4 @@ All programming, design, and development rights reserved to **Polat Studio** © 
 
 Unauthorized redistribution, resale, or commercial modification is prohibited.
 
-Discord: `plt`
+Discord: `engkane`
